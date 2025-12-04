@@ -18,4 +18,12 @@
         "expirydate": "31-12-2030",
         "Allowoffline": true
     },
+    {
+        "device_id": "88418a73598d35f7",
+        "key": "PASSPASS",
+        "expirydate": "15-06-2026",
+        "Allowoffline": false
+    },
+    
+    {
 ]
